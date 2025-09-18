@@ -1,7 +1,3 @@
-# Level 1 Header
----
-## Level 2 Header
----
-### Level 3 Header
+<h1>Heading level 1</h1>
 
 - Hey there
