@@ -6,7 +6,7 @@
   </header>
 
   <h1>
-    from this>
+    from this
   </h1>
   
 </main>
